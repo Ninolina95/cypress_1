@@ -1,0 +1,14 @@
+{
+  "name": "cypress_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
